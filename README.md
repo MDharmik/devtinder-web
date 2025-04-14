@@ -16,3 +16,11 @@
 - Install axios
 - CORS - install cors in backend => add middleware to with configuration: origin, credentials: true;
 - Whenever you are making API call using axios => { withCredentials: true }
+
+- Install Redux Toolkit - https://redux-toolkit.js.org/tutorials/quick-start
+    - configureStore => Provider - provide store in root component => create slice => add reducer to appStore
+
+- Add redux devtools in chrome
+- Login & see if your data is coming properly in chrome
+- navbar should update as long as logs in
+- Refactor code to add constants file + create a component folder 
