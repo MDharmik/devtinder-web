@@ -28,3 +28,4 @@
 - If token is not present, redirect user to login page.
 - Logout Feature
 - get the feed and add feed in the store
+- build the user card on feed
