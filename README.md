@@ -20,6 +20,8 @@
 - Install Redux Toolkit - https://redux-toolkit.js.org/tutorials/quick-start
     - configureStore => Provider - provide store in root component => create slice => add reducer to appStore
 
+- CREATE COMPONENT AND USE COMMAND rafce TO ADD DEFAULT STRUCTURE OF COMPONET
+
 - Add redux devtools in chrome
 - Login & see if your data is coming properly in chrome
 - navbar should update as long as logs in
@@ -32,3 +34,4 @@
 - Edit user profile feature
 - Show toast message on save of edited profile
 
+- See all my connections
