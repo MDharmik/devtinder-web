@@ -35,4 +35,4 @@
 - Show toast message on save of edited profile
 
 - See all my connections
-- Show connection request
+- Show connection request - accept, reject connection request
