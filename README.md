@@ -36,3 +36,4 @@
 
 - See all my connections
 - Show connection request - accept, reject connection request
+- Send/Ignore the user card from the feed 
